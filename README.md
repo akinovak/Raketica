@@ -1,0 +1,2 @@
+# Raketica
+Genetic algorithm
